@@ -1,0 +1,5 @@
+Night Mode
+#72D3D1, #8AFFFD, #F3FF98, #c3edb2, #FFD6C7
+
+Light Mode
+#00605F,#007573, #687500, #2B5F16, #751F00
