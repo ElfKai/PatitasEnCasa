@@ -3,7 +3,7 @@ import Link from "next/link";
 import { Button } from "@/components/button";
 import { Main } from "@/components/main";
 import { Navbar } from "@/components/nav";
-import logo from "../assets/images/weso.png";
+import logo from "../assets/images/logo.png";
 
 export default function Home() {
 	return (

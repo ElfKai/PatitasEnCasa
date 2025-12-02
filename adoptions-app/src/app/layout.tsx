@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Patitas Felices",
+  title: "Patitas en Casa",
   description: "Adopcion de perros y gatos.",
 };
 
